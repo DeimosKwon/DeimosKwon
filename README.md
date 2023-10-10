@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <h3 align="center">Github Stats</h3>
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy9604&show_icons=true&theme=radical&include_all_commits=true&count_private=true)]((https://github.com/kjy9604/github-readme-stats))
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy9604&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/kjy9604/github-readme-stats)
 </div>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy9604)](https://github.com/kjy9604/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy9604&theme=radical)](https://github.com/kjy9604/github-readme-stats)
+</div>

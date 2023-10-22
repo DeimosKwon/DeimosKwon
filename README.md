@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeyong%20Kwon&fontSize=90)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Deimos%20Kwon&fontSize=90)
+</div>
 
 <h3 align="center">My Skills</h3>
 <p align="center">
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-E25A1C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp 
   <!-- Frameworks -->
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -50,9 +54,9 @@ Here are some ideas to get you started:
 <h3 align="center">Github Stats</h3>
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy9604&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/kjy9604/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeimosKwon&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/DeimosKwon/github-readme-stats)
 </div>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy9604&theme=radical)](https://github.com/kjy9604/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeimosKwon&theme=radical)](https://github.com/DeimosKwon/github-readme-stats)
 </div>
